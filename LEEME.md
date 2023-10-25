@@ -1,3 +1,4 @@
+
 # Proyecto de Consulta de Información de Clientes
 
 Este proyecto Java es una aplicación que proporciona un servicio REST para consultar información básica de un cliente. La aplicación está diseñada para manejar solicitudes con diferentes tipos de documentos y números de documento. La información del cliente se almacena en una base de datos simulada y se retorna en formato JSON.
